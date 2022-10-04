@@ -7,3 +7,5 @@ dist/
 package.json
 yarn.lock
 README.md
+.angular/
+coverage/
