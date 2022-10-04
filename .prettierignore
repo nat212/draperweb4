@@ -1,0 +1,9 @@
+dist/
+.vscode/
+.idea/
+.husky/
+.browserslistrc
+.editorconfig
+package.json
+yarn.lock
+README.md
